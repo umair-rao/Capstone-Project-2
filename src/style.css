@@ -1,0 +1,40 @@
+.logo 
+{
+  width: 180px;
+}
+
+.header-class
+{
+  display: flex;
+  flex-direction: row;
+}
+
+ul 
+{
+  display: flex;
+  justify-content: space-between;
+}
+
+ul li {
+  justify-content: space-between;
+  padding: 40px;
+  list-style: none;
+}
+
+
+.movies
+{
+  display: grid;
+  grid-template-columns: repeat(30,1fr);
+  grid-column-gap:10px;
+  padding-top:3%;
+  padding-bottom: 6%;
+  padding-left: 6%;
+}
+
+.movie-span 
+{
+  margin-top: 170px;
+  margin-right: 60%;
+}
+
