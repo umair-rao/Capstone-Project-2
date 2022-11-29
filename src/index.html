@@ -3,79 +3,125 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <script src="https://kit.fontawesome.com/d6d5f8b156.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css" />
     <title>Capstone Project 2</title>
   </head>
   <body>
+    <main>
    <header>
-    <nav class="mobile_menu">
+    <nav class="navbar_menu">
       <ul class="nav-bar">
-        <div class="i">
-      	<i class="fa fa-video-camera"></i>
-        </div>
-       <li class="movies">Movies</li>
-       <li class="Series">Series</li>
-       <li class="games">Games</li>
-       <li class="nav-list-item search"><input class="search-input" type="search" placeholder="Search a movie..." /></li>
+        <li><i class="fa fa-video-camera" id="veido-icon"></i></li>
+        <li class="movies">Movies</li>
+        <li class="Series">Series</li>
+        <li class="games">Games</li>
       </ul>
     </nav>
    </header>
-   <section class="movies">
-    <div class="movie1">
-      <div>
-          <img src="./images/img.png" />
-      </div>
-      <div class="btn">
-        <button>Comment</button>
-      </div>
+   <section class="movies-list">
+    <div class="movie-item">
       <div>
         <img src="./images/img.png" />
+      </div>
+      <div class="title-like">
+        <p class="movie-title">Space1</p>
+        <div class="like-counter">
+          <i class="fa-regular fa-heart" id="heart"></i>
+          <p class="likes">5 likes</p>
+        </div>
+      </div>
+      <div class="comments-btn">
+        <button type="button" id="comment-btn">Comments</button>
+      </div>
     </div>
-    <div class="btn">
-      <button>Comment</button>
-    </div>
-    <div>
-      <img src="./images/img.png" />
-  </div>
-  <div class="btn">
-    <button>Comment</button>
-  </div>
-  </div>
-  <div class="movie1">
-    <div>
+    <div class="movie-item">
+      <div>
         <img src="./images/img.png" />
+      </div>
+      <div class="title-like">
+        <p class="movie-title">Space1</p>
+        <div class="like-counter">
+          <i class="fa-regular fa-heart" id="heart"></i>
+          <p class="likes">5 likes</p>
+        </div>
+      </div>
+      <div class="comments-btn">
+        <button type="button" id="comment-btn">Comments</button>
+      </div>
     </div>
-    <div class="btn">
-      <button>Comment</button>
+    <div class="movie-item">
+      <div>
+        <img src="./images/img.png" />
+      </div>
+      <div class="title-like">
+        <p class="movie-title">Space1</p>
+        <div class="like-counter">
+          <i class="fa-regular fa-heart" id="heart"></i>
+          <p class="likes">5 likes</p>
+        </div>
+      </div>
+      <div class="comments-btn">
+        <button type="button" id="comment-btn">Comments</button>
+      </div>
     </div>
-    <div>
-      <img src="./images/img.png" />
-  </div>
-  <div class="btn">
-    <button>Comment</button>
-  </div>
-  <div>
-    <img src="./images/img.png" />
-</div>
-<div class="btn">
-  <button>Comment</button>
-</div>
-</div>
+    <div class="movie-item">
+      <div>
+        <img src="./images/img.png" />
+      </div>
+      <div class="title-like">
+        <p class="movie-title">Space1</p>
+        <div class="like-counter">
+          <i class="fa-regular fa-heart" id="heart"></i>
+          <p class="likes">5 likes</p>
+        </div>
+      </div>
+      <div class="comments-btn">
+        <button type="button" id="comment-btn">Comments</button>
+      </div>
+    </div>
+    <div class="movie-item">
+      <div>
+        <img src="./images/img.png" />
+      </div>
+      <div class="title-like">
+        <p class="movie-title">Space1</p>
+        <div class="like-counter">
+          <i class="fa-regular fa-heart" id="heart"></i>
+          <p class="likes">5 likes</p>
+        </div>
+      </div>
+      <div class="comments-btn">
+        <button type="button" id="comment-btn">Comments</button>
+      </div>
+    </div>
+    <div class="movie-item">
+      <div>
+        <img src="./images/img.png" />
+      </div>
+      <div class="title-like">
+        <p class="movie-title">Space1</p>
+        <div class="like-counter">
+          <i class="fa-regular fa-heart" id="heart"></i>
+          <p class="likes">5 likes</p>
+        </div>
+      </div>
+      <div class="comments-btn">
+        <button type="button" id="comment-btn">Comments</button>
+      </div>
+    </div>
    </section>
-   <section class="overlay-window">
+   <!-- <section class="overlay-window">
     <div id="overlay">
-    <!-- comment popup window -->
+    comment popup window
     </div>
-   </section>
-   <section class="items">
+   </section> -->
+   <section class="footer-section">
     <footer>
-       developed by @umair and @ibtisam34
+       <p>Developed by @umair-rao and @ibtisam34</p>
     </footer>
    </section>
+  </main>
   </body>
 </html>
