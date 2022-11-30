@@ -29,8 +29,8 @@ main {
 
  .movies-list {
   display: grid;
-  grid-template-rows: auto auto;
   grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
   row-gap: 30px;
   column-gap: 100px;
   justify-content: center;
@@ -43,6 +43,10 @@ main {
   margin-top: 5px;
  }
 
+ .movie-title {
+  width: 150px;
+ }
+
  #heart {
   padding-left: 15%;
   cursor: pointer;
@@ -52,7 +56,7 @@ main {
   font-size: 22px;
  }
  
- #comment-btn {
+ .comment-btn {
   font-size: 20px;
   padding: 4px;
   border: 2px solid black;
