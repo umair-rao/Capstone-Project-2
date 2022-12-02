@@ -65,7 +65,7 @@ $ npm start
 
 Clone this repository to your desired folder:
 $ git clone https://github.com/umair-rao/Capstone-Project-3.git
-$  cd my-folder
+
 
 ### Install
 
