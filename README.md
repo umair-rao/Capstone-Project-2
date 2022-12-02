@@ -1,37 +1,4 @@
-<a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -57,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [javascript group capstone] <a name=""></a>
+# 📖 [javascript group capstone] 
 
 > This project is the second capstone project from Microverse. We created a webapp for movies enthusiast so they can see and choose their favorite movies. The project uses tvmaze API to get info about movies, and 'involvment' API to Send & get likes and comments.
 
@@ -75,9 +42,7 @@ tvmaze API and Involvment API
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [Live Demo Link]()
 
 <!-- GETTING STARTED -->
 
@@ -94,61 +59,28 @@ $npm start
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+$ npm start
 
 ### Setup
 
 Clone this repository to your desired folder:
-$ git clone https://github.com/umair-rao/Capstone-Project-3.git $ 
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+$ git clone https://github.com/umair-rao/Capstone-Project-3.git
+$  cd my-folder
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+$npm i
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 $npm start
 
 ### Run tests
 
 To run tests, run the following command:
-
-
-Example command:
 
 #npm test
 
@@ -157,8 +89,6 @@ Example command:
 You can deploy this project using:
 
   npm run dev
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -184,14 +114,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -210,8 +132,6 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
@@ -228,13 +148,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[how do I get the dependencies of this project]**
 
-  - [Answer_1]
+  - [yes after you clone the project plz run $npm i ]
 
-- **[Question_2]**
+- **[Can I this read me]**
 
-  - [Answer_2]
+  - [yes but edit the necessary parts]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
