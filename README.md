@@ -47,6 +47,7 @@ tvmaze API and Involvment API
 
 > Ibtisam34 proudest pull request review: https://github.com/umair-rao/Capstone-Project-2/pull/5
 > umair-rao proudest pull request review: https://github.com/umair-rao/Capstone-Project-2/pull/4
+> link to approved pull request https://github.com/umair-rao/Capstone-Project-2/pull/8
 
 <!-- GETTING STARTED -->
 
