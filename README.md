@@ -57,16 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="javascript group capstone"></a>
+# 📖 [javascript group capstone] <a name=""></a>
 
 > This project is the second capstone project from Microverse. We created a webapp for movies enthusiast so they can see and choose their favorite movies. The project uses tvmaze API to get info about movies, and 'involvment' API to Send & get likes and comments.
 
-**[your_project__name]** is a...javascript group capstone
+**[javascript group capstone]** 
 
-## 🛠 Built With <a name="HTML/CSS
+## 🛠 Built With 
+HTML/CSS
 JavaScript(ES6)
 Webpack ✈️
-tvmaze API and Involvment API"></a>
+tvmaze API and Involvment API
 
 
 
