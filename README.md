@@ -42,7 +42,7 @@ tvmaze API and Involvment API
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://umair-rao.github.io/Capstone-Project-2/dist/)
 - > a link to our Kanban board https://github.com/umair-rao/Kanban-board/projects/1
 
 > Ibtisam34 proudest pull request review: https://github.com/umair-rao/Capstone-Project-2/pull/5
