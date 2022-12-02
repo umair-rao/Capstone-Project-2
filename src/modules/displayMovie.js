@@ -2,9 +2,11 @@ import updatePopUp from './popup.js';
 
 const moviesContainer = document.querySelector('.movies-list');
 
+const url = 'https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/apps/kkWXlwzBJImy6CW31Zzh/likes';
+
 const getLikes = async () => {
   try {
-    const data = await fetch('https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/apps/kkWXlwzBJImy6CW31Zzh/likes');
+    const data = await fetch(url);
     const response = await data.json();
     return response;
   } catch (error) {
@@ -14,7 +16,7 @@ const getLikes = async () => {
 
 export const addLike = async (id) => {
   try {
-    await fetch('https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/apps/kkWXlwzBJImy6CW31Zzh/likes', {
+    await fetch(url, {
       method: 'POST',
       body: JSON.stringify({
         item_id: +id,
