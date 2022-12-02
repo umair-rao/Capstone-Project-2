@@ -1,5 +1,5 @@
 import './style.css';
-import displayMovie from './modules/displayMovie.js';
+// import displayMovie from './modules/displayMovie.js';
 
 const url = 'https://api.tvmaze.com/shows';
 
@@ -8,7 +8,8 @@ const getMovie = async () => {
     { method: 'GET' })
     .then((response) => response.json())
     .then((data) => {
-      displayMovie(data);
+      // displayMovie(data);
+      return data;
     });
 };
 
