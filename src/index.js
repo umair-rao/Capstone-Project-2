@@ -1,16 +1,15 @@
 import './style.css';
-// // import displayMovie from './modules/displayMovie.js';
+import displayMovie from './modules/displayMovie.js';
 
-// const url = 'https://api.tvmaze.com/shows';
+const url = 'https://api.tvmaze.com/shows';
 
-// const getMovie = async () => {
-//   fetch(url,
-//     { method: 'GET' })
-//     .then((response) => response.json())
-//     .then((data) => {
-//       // displayMovie(data);
-//     const result = data;
-//     });
-// };
+const getMovie = async () => {
+  fetch(url,
+    { method: 'GET' })
+    .then((response) => response.json())
+    .then((data) => {
+      displayMovie(data);
+    });
+};
 
-// getMovie();
+getMovie();
