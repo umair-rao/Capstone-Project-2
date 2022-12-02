@@ -72,3 +72,70 @@ main {
   text-align: center;
   padding-top: 30px;
  }
+
+ .show {
+  display: block;
+ }
+
+ .hide {
+  display: none;
+ }
+
+ .popup-window {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  background: url(./images/back.png);
+  color: aliceblue;
+  margin-left: 8%;
+  margin-right: 8%;
+  border-radius: 2%;
+ }
+
+.cross-icon {
+  color: aliceblue;
+  font-size: 80px;
+  cursor: pointer;
+  margin-left: 80%;
+}
+
+.popup-headings {
+  text-align: center;
+  margin-top: 2%;
+}
+
+.movie-details,
+.comments-section,
+.comments,
+.add-comment {
+  margin-top: 1%;
+}
+
+#details-child {
+  margin-top: 2%;
+}
+
+.comment-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin-top: 3%;
+}
+
+.add-comment input {
+  margin-top: 3%;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.submit-comment-btn {
+  margin-top: 5%;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  margin-bottom: 5%;
+  cursor: pointer;
+}
