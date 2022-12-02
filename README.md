@@ -16,11 +16,6 @@ Live Demo Link
 
 💻 Getting Started
 
-To get a local copy up and running, follow these steps.
-```$ git clone https://github.com/umair-rao/Capstone-Project-3.git
-$ cd capstone-project-3
-```
-
 ### Usage
 
 Prerequisites
@@ -53,14 +48,14 @@ $ npm run dev
 Mention all of the collaborators of this project.
 
 👤 Author1
-- GitHub: (https://github.com/ibtisam34)
-- Twitter: (https://twitter.com/Queennin12)
-- LinkedIn: (https://linkedin.com/in/Riyanagwl2)
+- GitHub: https://github.com/ibtisam34
+- Twitter: https://twitter.com/Queennin12
+- LinkedIn: https://linkedin.com/in/Riyanagwl2
 
 👤 Author2
-- GitHub: (https://github.com/umair-rao)
-- Twitter: (https://twitter.com/umair-rao)
-- LinkedIn: (https://linkedin.com/in/umair-muqeem)
+- GitHub: https://github.com/umair-rao
+- Twitter: https://twitter.com/umair-rao
+- LinkedIn: https://linkedin.com/in/umair-muqeem
 
 🔭 Future Features
 Describe 1 - 3 features you will add to the project.
