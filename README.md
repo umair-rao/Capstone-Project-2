@@ -41,15 +41,12 @@ Deployment
 You can deploy this project using:
 $ npm run dev
 ```
-
-(back to top)
-
 👥 Authors
 Mention all of the collaborators of this project.
 
 👤 Author1
-- GitHub: https://github.com/ibtisam34
-- Twitter: https://twitter.com/Queennin12
+   github: https://github.com/Ibtisam34
+- Twitter: https://twitter.com/Queennjin12
 - LinkedIn: https://linkedin.com/in/Riyanagwl2
 
 👤 Author2
@@ -69,21 +66,16 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-(back to top)
 
 ⭐️ Show your support
 Write a message to encourage readers to support your project
 
 If you like this project...
 
-(back to top)
-
 🙏 Acknowledgments
 Give credit to everyone who inspired your codebase.
 
 I would like to thank...
-
-(back to top)
 
 ❓ FAQ
 Add at least 2 questions new developers would ask when they decide to use your project.
