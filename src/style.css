@@ -1,11 +1,10 @@
-*
-  {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  }
+}
 
-  body {
+body {
   background-color: rgb(225, 184, 184);
 }
 
@@ -21,67 +20,66 @@ main {
   font-weight: bold;
 }
 
- .nav-bar li 
- {
+.nav-bar li {
   list-style: none;
   padding: 50px;
- }
+}
 
- .movies-list {
+.movies-list {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-template-rows: auto auto;
   row-gap: 30px;
   column-gap: 100px;
   justify-content: center;
- }
+}
 
- .title-like {
+.title-like {
   display: flex;
   flex-direction: row;
   font-size: 25px;
   margin-top: 5px;
- }
+}
 
- .movie-title {
+.movie-title {
   width: 150px;
- }
+}
 
- #heart {
+#heart {
   padding-left: 15%;
   cursor: pointer;
- }
+}
 
- .likes {
+.likes {
   font-size: 22px;
- }
- 
- .comment-btn {
+}
+
+.comment-btn {
   font-size: 20px;
   padding: 4px;
   border: 2px solid black;
   margin-top: 8px;
   cursor: pointer;
- }
+}
 
- .footer-section {
+.footer-section {
   font-size: 35px;
   height: 110px;
   margin-top: 5%;
   border-top: 2px solid black;
   text-align: center;
   padding-top: 30px;
- }
+}
 
- .show {
+.show {
   display: block;
- }
+}
 
- .hide {
+.hide {
   display: none;
- }
+}
 
- .popup-window {
+.popup-window {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -92,7 +90,7 @@ main {
   margin-left: 8%;
   margin-right: 8%;
   border-radius: 2%;
- }
+}
 
 .cross-icon {
   color: aliceblue;
