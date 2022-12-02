@@ -24,6 +24,7 @@ Deployment
 
 
 [Javascript group capstone] 
+This project is the second capstone project from Microverse. We created a webapp for movies enthusiast so they can see and choose their favorite movies. The project uses tvmaze API to get info about movies, and 'involvment' API to Send & get likes and comments.
 
 🛠 Built With
 - HTML/CSS
