@@ -9,7 +9,7 @@ const getMovie = async () => {
     .then((response) => response.json())
     .then((data) => {
       // displayMovie(data);
-      return data;
+    const result = data;
     });
 };
 
