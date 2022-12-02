@@ -1,5 +1,5 @@
-// import './style.css';
-// import displayMovie from './modules/displayMovie.js';
+import './style.css';
+// // import displayMovie from './modules/displayMovie.js';
 
 // const url = 'https://api.tvmaze.com/shows';
 
@@ -8,7 +8,8 @@
 //     { method: 'GET' })
 //     .then((response) => response.json())
 //     .then((data) => {
-//       displayMovie(data);
+//       // displayMovie(data);
+//     const result = data;
 //     });
 // };
 
