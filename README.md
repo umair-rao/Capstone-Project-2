@@ -1,29 +1,5 @@
-logo
-Microverse README Template
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ
-📝 License
-📖 [Javascript group capstone]
 
-
-[Javascript group capstone] 
+# Javascript group capstone
 This project is the second capstone project from Microverse. We created a webapp for movies enthusiast so they can see and choose their favorite movies. The project uses tvmaze API to get info about movies, and 'involvment' API to Send & get likes and comments.
 
 🛠 Built With
@@ -77,14 +53,14 @@ $ npm run dev
 Mention all of the collaborators of this project.
 
 👤 Author1
- - GitHub: [@ibtisam34](https://github.com/ibtisam34)
-- Twitter: [@Queenjin12](https://twitter.com/Queennin12)
-- LinkedIn: [Riyanagwl2](https://linkedin.com/in/Riyanagwl2)
+- GitHub: (https://github.com/ibtisam34)
+- Twitter: (https://twitter.com/Queennin12)
+- LinkedIn: (https://linkedin.com/in/Riyanagwl2)
 
 👤 Author2
-- GitHub: [@Umair-rao](https://github.com/umair-rao)
-- Twitter: [@umair-rao](https://twitter.com/umair-rao)
-- LinkedIn: [umair-muqeem](https://linkedin.com/in/umair-muqeem)
+- GitHub: (https://github.com/umair-rao)
+- Twitter: (https://twitter.com/umair-rao)
+- LinkedIn: (https://linkedin.com/in/umair-muqeem)
 
 🔭 Future Features
 Describe 1 - 3 features you will add to the project.
