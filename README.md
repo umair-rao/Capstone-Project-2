@@ -43,6 +43,7 @@ tvmaze API and Involvment API
 > Add a link to your deployed project.
 
 - [Live Demo Link]()
+- > a link to our Kanban board https://github.com/umair-rao/Kanban-board/projects/1
 
 <!-- GETTING STARTED -->
 
