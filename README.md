@@ -45,14 +45,15 @@ $ npm run dev
 Mention all of the collaborators of this project.
 
 👤 Author1
-   github: https://github.com/Ibtisam34
-- Twitter: https://twitter.com/Queennjin12
-- LinkedIn: https://linkedin.com/in/Riyanagwl2
+   github:@Ibtisam34
+ Twitter: @Queennjin12
+ LinkedIn: @Riyanagwl2
 
 👤 Author2
-- GitHub: https://github.com/umair-rao
-- Twitter: https://twitter.com/umair-rao
-- LinkedIn: https://linkedin.com/in/umair-muqeem
+GitHub: https://github.com/umair-rao
+GitHub: @umair-rao
+ Twitter:@umair-rao
+ LinkedIn:@umair-muqeem
 
 🔭 Future Features
 Describe 1 - 3 features you will add to the project.
