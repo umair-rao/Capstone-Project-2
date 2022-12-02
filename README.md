@@ -91,20 +91,22 @@ npm run deploy
 - Twitter: [@umair_ra0](https://twitter.com/@umair_ra0)
 - LinkedIn:[umair-muqeem ][](https://www.linkedin.com/in/engr-umair-muqeem/)
 
-## 🤝 Contributing
-
+##🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
-## Show your support
-
+Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+Acknowledgments
+Hat tip to anyone whose code was used
 
-This project uses the tvmaze API.
+Inspiration
 
-## 📝 License
+etc
 
-This project is [AGPL-3.0](./LICENSE) licensed.
+📝 License
+This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
