@@ -88,7 +88,7 @@ npm run deploy
 👤 **Umair-rao**
 
 - GitHub: [@Umair-rao](https://github.com/umair-rao)
-- Twitter: [@@umair_ra0](https://twitter.com/@umair_ra0)
+- Twitter: [@umair_ra0](https://twitter.com/@umair_ra0)
 - LinkedIn:[umair-muqeem ][](https://www.linkedin.com/in/engr-umair-muqeem/)
 
 ## 🤝 Contributing
